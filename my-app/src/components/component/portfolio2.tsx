@@ -36,7 +36,7 @@ export function Component() {
               <div className="flex flex-col justify-center space-y-4">
                 <div className="space-y-2">
                   <h1 className="text-3xl font-bold tracking-tighter sm:text-5xl xl:text-6xl text-white">
-                    Hello, I'm Eirik Breen
+                    Hello, I&apos;m Eirik Breen
                   </h1>
                   <p className="max-w-[600px] text-gray-200 md:text-xl dark:text-gray-400">
                     A professional web developer with a passion for creating unique and innovative web experiences.
@@ -203,7 +203,7 @@ export function Component() {
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-white" href="#contact">Contact Me</h2>
                 <p className="max-w-[900px] text-gray-200 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                  Feel free to reach out if you're looking for a developer, have a question, or just want to connect.
+                  Feel free to reach out if you&apos;re looking for a developer, have a question, or just want to connect.
                 </p>
               </div>
             </div>
