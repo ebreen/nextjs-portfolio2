@@ -129,7 +129,9 @@ export function Component() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-white" href="#skills">My Skills</h2>
+                <a href="#Skills">
+                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-white">My Skills</h2>
+                </a>
                 <p className="max-w-[900px] text-gray-200 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                   I have a wide array of skills ranging from front-end development to back-end development.
                 </p>
@@ -173,7 +175,9 @@ export function Component() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-white" href="#experience">Experience</h2>
+                <a href="#experience">
+                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-white">Experience</h2>
+                </a>
                 <p className="max-w-[900px] text-gray-200 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                   I have worked with a number of companies and have gained a lot of experience over the years.
                 </p>
@@ -203,7 +207,9 @@ export function Component() {
           <div className="container px-4 md:px-6">
             <div className="flex flex-col items-center justify-center space-y-4 text-center">
               <div className="space-y-2">
-                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-white" href="#contact">Contact Me</h2>
+                <a href="#contact">
+                <h2 className="text-3xl font-bold tracking-tighter sm:text-5xl text-white">Contact Me</h2>
+                </a>
                 <p className="max-w-[900px] text-gray-200 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
                   Feel free to reach out if you&apos;re looking for a developer, have a question, or just want to connect.
                 </p>
